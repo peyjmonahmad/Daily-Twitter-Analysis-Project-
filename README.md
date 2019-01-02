@@ -1,4 +1,4 @@
-# Project-Fletcher
+# Analyzing User Tweets toward News Sources
 
 I utilized unsupervised machine learning techniques to analyze daily tweets directed towards major news sources for the week days of Nov 12 to Nov 16 (2018).  Note: This was one week following the 2018 Mid-term Elections. 
 
